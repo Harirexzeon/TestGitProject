@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         //saurav sani
         //aman
         Log.d("dfhdh","hdjhgkjah");
-        //rytuiyitokt
     }
 
     @Override
